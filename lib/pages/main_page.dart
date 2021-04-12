@@ -49,13 +49,14 @@ class MainPage extends StatelessWidget {
             height: Get.size.height * .65,
             width: double.infinity,
             decoration: BoxDecoration(
-              color: Colors.white,
-            ),
+                // color: Colors.white,
+                ),
+            padding: EdgeInsets.symmetric(horizontal: 24),
             child: ListView.separated(
-              itemCount: 10,
+              itemCount: menu.length,
               separatorBuilder: (_, __) => Divider(),
               itemBuilder: (context, index) => ListTile(
-                title: Text('Hello'),
+                title: Text(menu[index]),
                 trailing: Icon(Icons.arrow_forward_ios, size: 15),
                 onTap: () {},
               ),
@@ -66,3 +67,18 @@ class MainPage extends StatelessWidget {
     );
   }
 }
+
+List menu = [
+  'Niat Puasa Ramadhan',
+  'Doa Usa Buka Puasa',
+  'Niat Sholat Tarawih',
+  'Bilal Tarawih & Jawabannya',
+  'Doa Kamilin Bakda Tarawih',
+  'Niat Sholat Witir',
+  'Wirid & Doa Bakda Witir',
+  'Bacaan Lailatur Qodar',
+  'Niat Zakat Fitrah',
+  'Doa Menerima Zakat Fitrah',
+  'Lafazd Takbiran Idul Fitri',
+  'Niat Sholat Idul Fitri',
+];
