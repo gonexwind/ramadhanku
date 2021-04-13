@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.fikkyardianto.ramadhanku">
    <application
-        android:label="ramadhanku"
+        android:label="RamadhanKu"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
