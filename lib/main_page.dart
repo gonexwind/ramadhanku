@@ -15,8 +15,7 @@ class MainPage extends StatelessWidget {
       ),
       child: SafeArea(
         child: Scaffold(
-          body: Column(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          body: ListView(
             children: [
               // Header
               Container(
@@ -51,6 +50,8 @@ class MainPage extends StatelessWidget {
                 ),
               ),
 
+              SizedBox(height: Get.size.height * .05),
+
               // List Menu
               Container(
                 height: Get.size.height * .65,
@@ -80,6 +81,8 @@ class MainPage extends StatelessWidget {
                   },
                 ),
               ),
+
+              SizedBox(height: 10),
             ],
           ),
         ),

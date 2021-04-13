@@ -20,24 +20,17 @@ var data = [
   {
     "title": "Niat Sholat Tarawih",
     "doa":
-        "اُصَلِّى سُنَّةَ التَّرَاوِيْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً إِمَامًا ِللهِ تَعَالَى",
+        "اُصَلِّى سُنَّةَ التَّرَاوِيْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى",
     "latin":
-        "Usholli sunnatat Tarāwīhi rak‘atayni mustaqbilal qiblati adā’an imāman lillāhi ta‘ālā.",
+        "Usholli sunnatat Tarāwīhi rak‘atayni mustaqbilal qiblati adā’an makmūman lillāhi ta‘ālā.",
     "terjemahan":
-        "Aku menyengaja sembahyang sunnah Tarawih dua rakaat dengan menghadap kiblat, tunai sebagai imam karena Allah SWT.",
-  },
-  {
-    "title": "Bilal Tarawih & Jawabannya",
-    "doa": "",
-    "latin": "",
-    "terjemahan": "",
+        "Aku menyengaja sembahyang sunnah Tarawih dua rakaat dengan menghadap kiblat, tunai sebagai makmum karena Allah SWT.",
   },
   {
     "title": "Doa Kamilin Bakda Tarawih",
     "doa":
         "اَللهُمَّ اجْعَلْنَا بِالْإِيْمَانِ كَامِلِيْنَ. وَلِلْفَرَائِضِ مُؤَدِّيْنَ. وَلِلصَّلاَةِ حَافِظِيْنَ. وَلِلزَّكَاةِ فَاعِلِيْنَ. وَلِمَا عِنْدَكَ طَالِبِيْنَ. وَلِعَفْوِكَ رَاجِيْنَ. وَبِالْهُدَى مُتَمَسِّكِيْنَ. وَعَنِ الَّلغْوِ مُعْرِضِيْنَ. وَفِى الدُّنْيَا زَاهِدِيْنَ. وَفِى اْلآخِرَةِ رَاغِبِيْنَ. وَبَالْقَضَاءِ رَاضِيْنَ. وَلِلنَّعْمَاءِ شَاكِرِيْنَ. وَعَلَى الْبَلاَءِ صَابِرِيْنَ. وَتَحْتَ لِوَاءِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْقِيَامَةِ سَائِرِيْنَ وَعَلَى الْحَوْضِ وَارِدِيْنَ. وَإِلَى الْجَنَّةِ دَاخِلِيْنَ. وَمِنَ النَّارِ نَاجِيْنَ. وَعَلى سَرِيْرِالْكَرَامَةِ قَاعِدِيْنَ. وَبِحُوْرٍعِيْنٍ مُتَزَوِّجِيْنَ. وَمِنْ سُنْدُسٍ وَاِسْتَبْرَقٍ وَدِيْبَاجٍ مُتَلَبِّسِيْنَ. وَمِنْ طَعَامِ الْجَنَّةِ آكِلِيْنَ. وَمِنْ لَبَنٍ وَعَسَلٍ مُصَفًّى شَارِبِيْنَ. بِأَكْوَابٍ وَّأَبَارِيْقَ وَكَأْسٍ مِّنْ مَعِيْن. مَعَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ مِنَ النَّبِيِّيْنَ وَالصِّدِّيْقِيْنَ وَالشُّهَدَآءِ وَالصَّالِحِيْنَ وَحَسُنَ أُولئِكَ رَفِيْقًا. ذلِكَ الْفَضْلُ مِنَ اللهِ وَكَفَى بِاللهِ عَلِيْمًا. اَللهُمَّ اجْعَلْنَا فِى هذِهِ اللَّيْلَةِ الشَّهْرِالشَّرِيْفَةِ الْمُبَارَكَةِ مِنَ السُّعَدَاءِ الْمَقْبُوْلِيْنَ. وَلاَتَجْعَلْنَا مِنَ اْلأَشْقِيَاءِ الْمَرْدُوْدِيْنَ. وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِه وَصَحْبِه أَجْمَعِيْنَ. بِرَحْمَتِكَ يَاأَرْحَمَ الرَّاحِمِيْنَ وَالْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ",
-    "latin":
-        "Allâhummaj‘alnâ bil îmâni kâmilîn. Wa lil farâidli muaddîn. Wa lish-shlâti hâfidhîn. Wa liz-zakâti fâ‘ilîn. Wa lima ‘indaka thâlibîn. Wa li ‘afwika râjîn. Wa bil-hudâ mutamassikîn. Wa ‘anil laghwi mu‘ridlîn. Wa fid-dunyâ zâhdîn. Wa fil ‘âkhirati râghibîn. Wa bil-qadlâ’I râdlîn. Wa lin na‘mâ’I syâkirîn. Wa ‘alal balâ’i shâbirîn. Wa tahta liwâ’i muhammadin shallallâhu ‘alaihi wasallam yaumal qiyâmati sâ’irîna wa alal haudli wâridîn. Wa ilal jannati dâkhilîn. Wa minan nâri nâjîn. Wa 'alâ sariirl karâmati qâ'idîn. Wa bi hûrun 'in mutazawwijîn. Wa min sundusin wa istabraqîn wadîbâjin mutalabbisîn. Wa min tha‘âmil jannati âkilîn. Wa min labanin wa ‘asalin mushaffan syâribîn. Bi akwâbin wa abârîqa wa ka‘sin min ma‘în. Ma‘al ladzîna an‘amta ‘alaihim minan nabiyyîna wash shiddîqîna wasy syuhadâ’i wash shâlihîna wa hasuna ulâ’ika rafîqan. Dâlikal fadl-lu minallâhi wa kafâ billâhi ‘alîman. Allâhummaj‘alnâ fî hâdzihil lailatisy syahrisy syarîfail mubârakah minas su‘adâ’il maqbûlîn. Wa lâ taj‘alnâ minal asyqiyâ’il mardûdîn. Wa shallallâhu ‘alâ sayyidinâ muhammadin wa âlihi wa shahbihi ajma‘în. Birahmatika yâ arhamar râhimîn wal hamdulillâhi rabbil ‘âlamîn.",
+    "latin": "",
     "terjemahan":
         "Yaa Allah, jadikanlah kami orang-orang yang sempurna imannya, yang memenuhi kewajiban-kewajiban, yang memelihara shalat, yang mengeluarkan zakat, yang mencari apa yang ada di sisi-Mu, yang mengharapkan ampunan-Mu, yang berpegang pada petunjuk, yang berpaling dari kebatilan, yang zuhud di dunia, yang menyenangi akhirat, yang ridha dengan qadla-Mu (ketentuan-Mu), yang mensyukuri nikmat, yang sabar atas segala musibah, yang berada di bawah panji-panji junjungan kami, Nabi Muhammad, pada hari kiamat, yang mengunjungi telaga (Nabi Muhammad), yang masuk ke dalam surga, yang selamat dari api neraka, yang duduk di atas ranjang kemuliaan, yang menikah dengan para bidadari, yang mengenakan berbagai sutra ,yang makan makanan surga, yang minum susu dan madu murni dengan gelas, cangkir, dan cawan bersama orang-orang yang Engkau beri nikmat dari kalangan para nabi, shiddiqin, syuhada dan orang-orang shalih. Mereka itulah teman yang terbaik. Itulah keutamaan (anugerah) dari Allah, dan cukuplah bahwa Allah Maha Mengetahui. Ya Allah, jadikanlah kami pada malam yang mulia dan diberkahi ini termasuk orang-orang yang bahagia dan diterima amalnya, dan janganlah Engkau jadikan kami tergolong orang-orang yang celaka dan ditolak amalnya. Semoga Allah mencurahkan rahmat-Nya atas junjungan kami Muhammad, serta seluruh keluarga dan shahabat beliau. Berkat rahmat-Mu, wahai Yang Paling Penyayang di antara yang penyayang. Segala puji bagi Allah Tuhan semesta alam.",
   },
@@ -51,10 +44,12 @@ var data = [
         "Aku menyengaja sembahyang sunnah bagian dari shalat Witir dua rakaat dengan menghadap kiblat, tunai sebagai makmum karena Allah SWT.",
   },
   {
-    "title": "Wirid & Doa Bakda Witir",
-    "doa": "",
+    "title": "Doa Bakda Witir",
+    "doa":
+        "أَللَّهُمَّ إِنَّا نَسْاَلُكَ إِيْمَانًا دَاِئمًا وَنَسْأَلُكَ قَلْبًا خَاشِعًا وَنَسْأَلُكَ عِلْمًا نَافِعًا وَنَسْأَلُكَ يَقِيْنًا صَادِقًا وَنَسْأَلُكَ عَمَلًا صَالِحًا وَنَسْأَلُكَ دِيْنًا قَيِّمًا وَنَسْأَلُكَ خَيْرًا كَثِيْرًا وَنَسْأَلُكَ الْعَفْوَ وَالْعَا فِيَةَ وَنَسْأَلُكَ تَمَّامَ الْعَافِيَّةِ وَنَسْأَلُكَ الشُّكْرَ عَلَى الْعَافِيَّةِ وَنَسْأَلُكَ الْغِنَى عَنِ النَّاسِ أَللَّهُمَّ رَبَّنَا تَقَبَّلْ مِنَّا صَلَاتَنَا وَصِيَا مَنَا وَقِيَا مَنَا وَتَخَشُعَنَا وَتَضَرُّعَنَا وَتَعَبُّدَنَا وَتَمِّمْ تَقْصِيْرَنَا يَا أَللهُ يَاأَرْحَمَ الرَّاحِمِيْنَ وَصَلَّى اللهُ عَلَى خَيْرِ خَلْقِهِ سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَأَصْحَابِهِ أَجْمَعِيْنَ وَالْحَمْدُ لِلهِ رَبِّ الْعَالَمِيْنَ.",
     "latin": "",
-    "terjemahan": "",
+    "terjemahan":
+        "Ya Allah, kami mohon pada-Mu, iman yang langgeng, hati yang khusyu', ilmu yang bermanfaat, keyakinan yang benar,amal yang shalih, agama yang lurus, kebaikan yang banyak.kami mohon kepada-Muampunan dan kesehatan, kesehatan yang sempurna, kami mohon kepada-Mu bersyukur atas karunia kesehatan, kami mohon kepada-Mu kecukupan terhadap sesaama manusia. Ya Allah, tuhan kami terimalah dari kami: shalat, puasa, ibadah, kekhusyu'an, rendah diri dan ibadaha kami, dan sempurnakanlah segala kekurangan kami. Ya allah, Tuhan yang Maha Pengasih dari segala yang pengasih. Dan semoga kesejahteraan dilimpahkan kepada makhluk-Nya yang terbaik, Nabi Muhammad s.a.w, demikian pula keluarga dan para sahabatnya secara keseluruhan. Serta segala puji milik Allah Tuhan semestra alam.",
   },
   {
     "title": "Bacaan Lailatur Qodar",
@@ -83,9 +78,12 @@ var data = [
   },
   {
     "title": "Lafazd Takbiran Idul Fitri",
-    "doa": "",
-    "latin": "",
-    "terjemahan": "",
+    "doa":
+        "اللهُ اكبَرْ، اللهُ اكبَرْ اللهُ اكبَرْ لاالٰهَ اِلاالله وَاللهُ اَكبر، اللهُ اكبَرُوَِللهِ الحَمْد",
+    "latin":
+        "Alloohu akbar Alloohu akbar Alloohu akbar, laa illaa haillallahuwaalloohuakbar Alloohu akbar walillaahil hamd",
+    "terjemahan":
+        "Alloh maha besar, Alloh maha besar, Alloh maha besar, Tiada Tuhan selain Alloh, Alloh maha besar, Alloh maha besar dan segala puji bagi Alloh.",
   },
   {
     "title": "Niat Sholat Idul Fitri",
