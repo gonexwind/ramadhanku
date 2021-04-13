@@ -9,7 +9,10 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnnotatedRegion<SystemUiOverlayStyle>(
-      value: SystemUiOverlayStyle(statusBarColor: Colors.teal),
+      value: SystemUiOverlayStyle(
+        statusBarColor: Colors.teal,
+        statusBarIconBrightness: Brightness.light,
+      ),
       child: SafeArea(
         child: Scaffold(
           body: Column(
@@ -17,7 +20,7 @@ class MainPage extends StatelessWidget {
             children: [
               // Header
               Container(
-                height: Get.size.height * .3,
+                height: Get.size.height * .25,
                 width: double.infinity,
                 decoration: BoxDecoration(
                   color: Colors.teal,
@@ -33,7 +36,7 @@ class MainPage extends StatelessWidget {
                       'RamadhanKu',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 22,
+                        fontSize: 32,
                       ),
                     ),
                     SizedBox(height: 10),
