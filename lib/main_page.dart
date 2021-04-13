@@ -19,7 +19,10 @@ class MainPage extends StatelessWidget {
             children: [
               // Header
               Container(
-                height: Get.size.height * .25,
+                height: (MediaQuery.of(context).orientation ==
+                        Orientation.landscape)
+                    ? Get.size.height * .21
+                    : Get.size.height * .25,
                 width: double.infinity,
                 decoration: BoxDecoration(
                   color: Colors.teal,
@@ -38,7 +41,7 @@ class MainPage extends StatelessWidget {
                         fontSize: 32,
                       ),
                     ),
-                    SizedBox(height: 10),
+                    SizedBox(height: 5),
                     Text(
                       'Buku Saku Ramadhan',
                       style: TextStyle(
