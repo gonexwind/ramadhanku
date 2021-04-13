@@ -31,7 +31,11 @@ class DetailPage extends StatelessWidget {
                 Text(
                   doa,
                   textDirection: TextDirection.rtl,
-                  style: TextStyle(fontSize: 28),
+                  style: TextStyle(
+                    fontSize: 32,
+                    fontFamily: 'Scheherazade',
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
                 SizedBox(height: 20),
                 Text(latin, style: TextStyle(fontSize: 16, color: Colors.teal)),

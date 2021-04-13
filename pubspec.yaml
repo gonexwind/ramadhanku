@@ -20,3 +20,7 @@ flutter:
       fonts:
         - asset: assets/fonts/poppins/Poppins-Regular.ttf
         - asset: assets/fonts/poppins/Poppins-Bold.ttf
+    - family: Scheherazade
+      fonts:
+        - asset: assets/fonts/scheherazade/Scheherazade-Regular.ttf
+        - asset: assets/fonts/scheherazade/Scheherazade-Bold.ttf
